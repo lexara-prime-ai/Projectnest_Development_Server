@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "userName": "carla",
+      "id": 7
+    },
+    {
+      "userName": "anita",
+      "id": 8
+    },
+    {
+      "userName": "Zara",
+      "id": 9
+    }
+  ],
+  "projects": [
+    {
+      "projectName": "afrilink UI update",
+      "assignedTo": "john",
+      "category": "software",
+      "level": 3,
+      "id": 6
+    },
+    {
+      "projectName": "Coca cola logo design",
+      "assignedTo": "carla",
+      "category": "design",
+      "level": 2,
+      "id": 7
+    },
+    {
+      "projectName": "fifty8 sports UI update",
+      "assignedTo": "anita",
+      "category": "web development",
+      "level": 1,
+      "id": 8
+    },
+    {
+      "projectName": "Present Designs",
+      "assignedTo": "Irfan",
+      "category": "UI/UX Design",
+      "level": 1,
+      "id": 9
+    },
+    {
+      "projectName": "Update Live Urls",
+      "assignedTo": "Irfan",
+      "category": "UI/UX Design",
+      "level": 1,
+      "id": 10
+    }
+  ]
+}
